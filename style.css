@@ -1,0 +1,19 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+     
+}
+#box1{
+    background-color: #53989a;
+    padding: 20px;   
+}
+#box2{
+    background-color: gold;
+    border-width: 20px 10px;
+    margin-left: 259px;
+}
+#box3{
+    background-color: #d45757; 
+    margin-left: 40px;
+}
